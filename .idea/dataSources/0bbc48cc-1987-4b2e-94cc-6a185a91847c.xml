@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="maufutsal_groupteam_creator_db">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.2">
+    <root id="1"/>
+    <schema id="2" parent="1" name="maufutsal_groupteam_creator">
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="3" parent="1" name="information_schema"/>
+    <schema id="4" parent="1" name="maufutsal"/>
+    <schema id="5" parent="1" name="mediapesona_news"/>
+    <schema id="6" parent="1" name="myflorist"/>
+    <schema id="7" parent="1" name="mysql"/>
+    <schema id="8" parent="1" name="performance_schema"/>
+    <schema id="9" parent="1" name="phpmyadmin"/>
+    <schema id="10" parent="1" name="test"/>
+    <table id="11" parent="2" name="tbl_group_formation"/>
+    <table id="12" parent="2" name="tbl_group_list"/>
+    <table id="13" parent="2" name="tbl_teamlist"/>
+    <table id="14" parent="2" name="tbl_teamlist_executed"/>
+    <column id="15" parent="11" name="id_group">
+      <Position>1</Position>
+      <DataType>int(3)|0</DataType>
+    </column>
+    <column id="16" parent="11" name="id_team">
+      <Position>2</Position>
+      <DataType>int(3)|0</DataType>
+    </column>
+    <column id="17" parent="11" name="id_group_formation">
+      <Position>3</Position>
+      <DataType>int(255)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <key id="18" parent="11" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>id_group_formation</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="19" parent="12" name="group_name">
+      <Position>1</Position>
+      <DataType>varchar(3)|0</DataType>
+    </column>
+    <column id="20" parent="12" name="current_counter">
+      <Position>2</Position>
+      <DataType>int(20)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="21" parent="12" name="id_group">
+      <Position>3</Position>
+      <DataType>int(255)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <key id="22" parent="12" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>id_group</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="23" parent="13" name="team_name">
+      <Position>1</Position>
+      <DataType>varchar(50)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="24" parent="13" name="id_teamlist">
+      <Position>2</Position>
+      <DataType>int(255)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <key id="25" parent="13" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>id_teamlist</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="26" parent="14" name="rest_of_team">
+      <Position>1</Position>
+      <DataType>int(100)|0</DataType>
+    </column>
+    <column id="27" parent="14" name="id_teamlist_executed">
+      <Position>2</Position>
+      <DataType>int(255)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <key id="28" parent="14" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>id_teamlist_executed</ColNames>
+      <Primary>1</Primary>
+    </key>
+  </database-model>
+</dataSource>

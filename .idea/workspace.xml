@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2242900-58f1-415f-9b0a-84dccecea04b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mediapesona_project" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../school_bell_project/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="78" column="28" lean-forward="true" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>s</find>
+      <find>stop</find>
+      <find>spin</find>
+      <find>current_counter</find>
+      <find>sanitat</find>
+      <find>reg</find>
+      <find>reguser</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../myflorist_webapps_project_new" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mediapartner/newsmedia/main.php" />
+        <option value="$PROJECT_DIR$/mediapartner/newsmedia/components/footer.php" />
+        <option value="$PROJECT_DIR$/mediapartner/main.php" />
+        <option value="$PROJECT_DIR$/../maufutsal_groupteam_creator_project/cosmetic.css" />
+        <option value="$PROJECT_DIR$/../maufutsal_groupteam_creator_project/wheeloffortune.js" />
+        <option value="$PROJECT_DIR$/../maufutsal_groupteam_creator_project/css/cosmetic.css" />
+        <option value="$PROJECT_DIR$/../maufutsal_groupteam_creator_project/libs/database.class.php" />
+        <option value="$PROJECT_DIR$/../maufutsal_groupteam_creator_project/libs/auth.class.php" />
+        <option value="$PROJECT_DIR$/../maufutsal_groupteam_creator_project/main.php" />
+        <option value="$PROJECT_DIR$/../maufutsal_groupteam_creator_project/libs/reset.php" />
+        <option value="$PROJECT_DIR$/../maufutsal_groupteam_creator_project/api_group/api_group.php" />
+        <option value="$PROJECT_DIR$/../maufutsal_groupteam_creator_project/libs/act.class.php" />
+        <option value="$PROJECT_DIR$/../maufutsal_groupteam_creator_project/reset.php" />
+        <option value="$PROJECT_DIR$/../myflorist_webapps_project_new/libs/authentication.class.php" />
+        <option value="$PROJECT_DIR$/main.php" />
+        <option value="$PROJECT_DIR$/../school_bell_project/main.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="32" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mediapesona_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="school_bell_project" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../school_bell_project" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\maufutsal_groupteam_creator_project" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2242900-58f1-415f-9b0a-84dccecea04b" name="Default" comment="" />
+      <created>1503044662881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503044662881</updated>
+      <workItem from="1503044697800" duration="1948000" />
+      <workItem from="1503150735413" duration="35573000" />
+      <workItem from="1503302798512" duration="1608000" />
+      <workItem from="1504175999265" duration="569000" />
+      <workItem from="1504176713641" duration="907000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40605000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="32" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2313988" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18364312" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../maufutsal_groupteam_creator_project/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#98#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../maufutsal_groupteam_creator_project/api_group/api_group.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="40" column="54" lean-forward="false" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="54" />
+          <folding>
+            <element signature="e#7#98#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../maufutsal_groupteam_creator_project/libs/act.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3230">
+          <caret line="190" column="45" lean-forward="false" selection-start-line="190" selection-start-column="45" selection-end-line="190" selection-end-column="45" />
+          <folding>
+            <marker date="1503231748637" expanded="true" signature="362:409" ph="SELECT * FRO... tbl_group_list" />
+            <marker date="1503231748637" expanded="true" signature="666:713" ph="SELECT * FRO... tbl_group_list" />
+            <marker date="1503231748637" expanded="true" signature="954:997" ph="SELECT COUNT... tbl_teamlist" />
+            <marker date="1503231748637" expanded="true" signature="1170:1226" ph="SELECT * FRO... tbl_teamlist_executed" />
+            <marker date="1503231748637" expanded="true" signature="1514:1570" ph="INSERT INTO tbl_teamlist_executed... " />
+            <marker date="1503231748637" expanded="true" signature="1781:1816" ph="SELECT * FRO... tbl_teamlist_executed" />
+            <marker date="1503231748637" expanded="true" signature="2039:2115" ph="UPDATE tbl_t... " />
+            <marker date="1503231748637" expanded="true" signature="2541:2603" ph="UPDATE tbl_g... " />
+            <marker date="1503231748637" expanded="true" signature="2895:2930" ph="SELECT * FRO... tbl_teamlist_executed" />
+            <marker date="1503231748637" expanded="true" signature="3506:3534" ph="SELECT * FRO... tbl_group_list" />
+            <marker date="1503231748637" expanded="true" signature="4696:4757" ph="INSERT INTO tbl_group_formation... " />
+            <marker date="1503231748637" expanded="true" signature="5455:5511" ph="INSERT INTO tbl_teamlist_executed... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../maufutsal_groupteam_creator_project/reset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding>
+            <marker date="1503231866156" expanded="true" signature="775:803" ph="SELECT * FRO... tbl_group_list" />
+            <marker date="1503231866156" expanded="true" signature="1071:1121" ph="SELECT * FRO... tbl_group_formation" />
+            <marker date="1503231866156" expanded="true" signature="1352:1398" ph="SELECT * FRO... tbl_group_list" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../maufutsal_groupteam_creator_project/js/wheeloffortune.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="112" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../maufutsal_groupteam_creator_project/css/cosmetic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../maufutsal_groupteam_creator_project/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="47" />
+          <folding>
+            <element signature="e#7#98#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../maufutsal_groupteam_creator_project/api_group/api_group.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="54" lean-forward="false" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="54" />
+          <folding>
+            <element signature="e#7#98#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../maufutsal_groupteam_creator_project/libs/act.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3230">
+          <caret line="190" column="45" lean-forward="false" selection-start-line="190" selection-start-column="45" selection-end-line="190" selection-end-column="45" />
+          <folding>
+            <marker date="1503231748637" expanded="true" signature="362:409" ph="SELECT * FRO... tbl_group_list" />
+            <marker date="1503231748637" expanded="true" signature="666:713" ph="SELECT * FRO... tbl_group_list" />
+            <marker date="1503231748637" expanded="true" signature="954:997" ph="SELECT COUNT... tbl_teamlist" />
+            <marker date="1503231748637" expanded="true" signature="1170:1226" ph="SELECT * FRO... tbl_teamlist_executed" />
+            <marker date="1503231748637" expanded="true" signature="1514:1570" ph="INSERT INTO tbl_teamlist_executed... " />
+            <marker date="1503231748637" expanded="true" signature="1781:1816" ph="SELECT * FRO... tbl_teamlist_executed" />
+            <marker date="1503231748637" expanded="true" signature="2039:2115" ph="UPDATE tbl_t... " />
+            <marker date="1503231748637" expanded="true" signature="2541:2603" ph="UPDATE tbl_g... " />
+            <marker date="1503231748637" expanded="true" signature="2895:2930" ph="SELECT * FRO... tbl_teamlist_executed" />
+            <marker date="1503231748637" expanded="true" signature="3506:3534" ph="SELECT * FRO... tbl_group_list" />
+            <marker date="1503231748637" expanded="true" signature="4696:4757" ph="INSERT INTO tbl_group_formation... " />
+            <marker date="1503231748637" expanded="true" signature="5455:5511" ph="INSERT INTO tbl_teamlist_executed... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../maufutsal_groupteam_creator_project/reset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding>
+            <marker date="1503231866156" expanded="true" signature="775:803" ph="SELECT * FRO... tbl_group_list" />
+            <marker date="1503231866156" expanded="true" signature="1071:1121" ph="SELECT * FRO... tbl_group_formation" />
+            <marker date="1503231866156" expanded="true" signature="1352:1398" ph="SELECT * FRO... tbl_group_list" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../maufutsal_groupteam_creator_project/js/wheeloffortune.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="112" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../maufutsal_groupteam_creator_project/css/cosmetic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/edb34a/0bbc48cc-1987-4b2e-94cc-6a185a91847c/maufutsal_groupteam_creator.tbl_teamlist_executed" />
+    <entry file="file://$PROJECT_DIR$/mediapartner/newsmedia/main.php" />
+    <entry file="file://$PROJECT_DIR$/mediapartner/newsmedia/components/footer.php" />
+    <entry file="file://$PROJECT_DIR$/mediapartner/newsmedia/components/footer.php" />
+    <entry file="file://$PROJECT_DIR$/mediapartner/newsmedia/main.php" />
+    <entry file="file://$PROJECT_DIR$/mediapartner/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../maufutsal_groupteam_creator_project/cosmetic.css" />
+    <entry file="file://$PROJECT_DIR$/../maufutsal_groupteam_creator_project/wheeloffortune.js" />
+    <entry file="file://$PROJECT_DIR$/../maufutsal_groupteam_creator_project/css/cosmetic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/edb34a/0bbc48cc-1987-4b2e-94cc-6a185a91847c/maufutsal_groupteam_creator.teamlist" />
+    <entry file="dbDummy://dbtable:/edb34a/0bbc48cc-1987-4b2e-94cc-6a185a91847c/maufutsal_groupteam_creator.tbl_group" />
+    <entry file="file://$PROJECT_DIR$/../maufutsal_groupteam_creator_project/js/wheeloffortune.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="112" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../maufutsal_groupteam_creator_project/libs/utility.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../maufutsal_groupteam_creator_project/libs/auth.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0bbc48cc-1987-4b2e-94cc-6a185a91847c/console.sql" />
+    <entry file="dbDummy://dbtable:/edb34a/0bbc48cc-1987-4b2e-94cc-6a185a91847c/maufutsal_groupteam_creator.tbl_group_formation" />
+    <entry file="dbDummy://dbtable:/edb34a/0bbc48cc-1987-4b2e-94cc-6a185a91847c/maufutsal_groupteam_creator.tbl_group_list" />
+    <entry file="file://$PROJECT_DIR$/../maufutsal_groupteam_creator_project/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/edb34a/0bbc48cc-1987-4b2e-94cc-6a185a91847c/maufutsal_groupteam_creator.tbl_teamlist" />
+    <entry file="file://$PROJECT_DIR$/../maufutsal_groupteam_creator_project/libs/database.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../maufutsal_groupteam_creator_project/libs/act.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3230">
+          <caret line="190" column="45" lean-forward="false" selection-start-line="190" selection-start-column="45" selection-end-line="190" selection-end-column="45" />
+          <folding>
+            <marker date="1503231748637" expanded="true" signature="362:409" ph="SELECT * FRO... tbl_group_list" />
+            <marker date="1503231748637" expanded="true" signature="666:713" ph="SELECT * FRO... tbl_group_list" />
+            <marker date="1503231748637" expanded="true" signature="954:997" ph="SELECT COUNT... tbl_teamlist" />
+            <marker date="1503231748637" expanded="true" signature="1170:1226" ph="SELECT * FRO... tbl_teamlist_executed" />
+            <marker date="1503231748637" expanded="true" signature="1514:1570" ph="INSERT INTO tbl_teamlist_executed... " />
+            <marker date="1503231748637" expanded="true" signature="1781:1816" ph="SELECT * FRO... tbl_teamlist_executed" />
+            <marker date="1503231748637" expanded="true" signature="2039:2115" ph="UPDATE tbl_t... " />
+            <marker date="1503231748637" expanded="true" signature="2541:2603" ph="UPDATE tbl_g... " />
+            <marker date="1503231748637" expanded="true" signature="2895:2930" ph="SELECT * FRO... tbl_teamlist_executed" />
+            <marker date="1503231748637" expanded="true" signature="3506:3534" ph="SELECT * FRO... tbl_group_list" />
+            <marker date="1503231748637" expanded="true" signature="4696:4757" ph="INSERT INTO tbl_group_formation... " />
+            <marker date="1503231748637" expanded="true" signature="5455:5511" ph="INSERT INTO tbl_teamlist_executed... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../maufutsal_groupteam_creator_project/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="64" column="26" lean-forward="true" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+          <folding>
+            <element signature="e#7#98#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../maufutsal_groupteam_creator_project/api_group/api_group.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="40" column="54" lean-forward="false" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="54" />
+          <folding>
+            <element signature="e#7#98#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../maufutsal_groupteam_creator_project/reset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding>
+            <marker date="1503231866156" expanded="true" signature="775:803" ph="SELECT * FRO... tbl_group_list" />
+            <marker date="1503231866156" expanded="true" signature="1071:1121" ph="SELECT * FRO... tbl_group_formation" />
+            <marker date="1503231866156" expanded="true" signature="1352:1398" ph="SELECT * FRO... tbl_group_list" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/edb34a/0bbc48cc-1987-4b2e-94cc-6a185a91847c/maufutsal_groupteam_creator.tbl_teamlist_executed" />
+    <entry file="file://$PROJECT_DIR$/../myflorist_webapps_project_new/libs/utility.class.php" />
+    <entry file="file://$PROJECT_DIR$/../myflorist_webapps_project_new/api_myflorist/api_myflorist.php" />
+    <entry file="file://$PROJECT_DIR$/../myflorist_webapps_project_new/libs/authentication.class.php" />
+    <entry file="file://$PROJECT_DIR$/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="117" column="42" lean-forward="false" selection-start-line="117" selection-start-column="42" selection-end-line="117" selection-end-column="42" />
+          <folding>
+            <marker date="1504188494208" expanded="true" signature="103:133" ph="SELECT * FRO... tbl_social_media" />
+            <marker date="1504188494208" expanded="true" signature="7490:7895" ph="..." />
+            <marker date="1504188494208" expanded="true" signature="7539:7849" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../school_bell_project/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="78" column="28" lean-forward="true" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
